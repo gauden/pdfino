@@ -34,7 +34,3 @@ Thumbs.db
 *.synctex.gz
 *.fls
 *.fdb_latexmk
-
-# Generated outputs
-*.pdf
-*.md
