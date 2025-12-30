@@ -2,7 +2,7 @@
 
 Convert `.ino` and `.py` files in the current directory into PDFs via Markdown + Pandoc.
 
-Note: if you are looking for the `pdfino`, a module that "wraps around ReportLab to simplify PDF document creation" then [this is where you want to go](https://pypi.org/project/pdfino/). My apologies for the name clash but I thought I had coined the name from PDF and Arduino and then became too invested in it.
+> Note: if you are looking for the `pdfino` module that "wraps around ReportLab to simplify PDF document creation" then [this is where you want to go](https://pypi.org/project/pdfino/). My apologies for the name clash but I thought I had coined the name from PDF and Arduino and then became too invested in it.
 
 ## Install (global)
 
