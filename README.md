@@ -5,7 +5,7 @@ Convert `.ino` and `.py` files in the current directory into PDFs via Markdown +
 ## Install (global)
 
 ```sh
-uv tool install pdfino
+uv tool install pdfino-cli
 ```
 
 ## Use
@@ -59,13 +59,13 @@ pdfino
 If `pdfino` was installed as a global uv tool:
 
 ```sh
-uv tool uninstall pdfino
+uv tool uninstall pdfino-cli
 ```
 
 If you installed it from a local checkout and want to reinstall after changes:
 
 ```sh
-uv tool uninstall pdfino
+uv tool uninstall pdfino-cli
 uv tool install .
 ```
 

@@ -1,5 +1,5 @@
 [project]
-name = "pdfino"
+name = "pdfino-cli"
 version = "0.1.0"
 description = "Convert .ino/.py files in the current directory into PDFs via Markdown + Pandoc."
 readme = "README.md"
